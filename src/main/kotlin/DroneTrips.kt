@@ -1,0 +1,1 @@
+class DroneTrips(var drone: Drone, var trips: MutableList<List<Location>>)

@@ -1,0 +1,1 @@
+class Location(var location: String, var weight: Int)
